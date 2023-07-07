@@ -1,0 +1,2 @@
+root: C:\Users\rames\Desktop\my-app\nvm
+path: C:\Program Files\nodejs
