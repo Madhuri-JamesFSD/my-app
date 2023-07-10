@@ -5,7 +5,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
   <section>
-      <h1>List of items</h1>
+      <h1 link rel = "stylesheet" href ="styles.css" class="heading">List of items</h1>
     <ul>
       <li>Cheese</li>
       <li>Butter</li>
